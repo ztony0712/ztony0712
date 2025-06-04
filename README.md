@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I am a PhD student researching **Robotics** @ National University of Singapore
-- My research interest is applying **Machine Learning** in **Autonomous Systems**
+- 🦾 My research interest is applying **Machine Learning** in **Autonomous Systems**
 - 📄 Explore my detailed experiences on my [personal website](https://ztony0712.github.io/)
 
 ### Languages and Tools:
